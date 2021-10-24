@@ -12,7 +12,7 @@ We're on a bunch of social medias, sometimes regretfully! Here's where you can f
 
 - MechaKeys is on [**Twitter**](https://twitter.com/MechaKeys)
 
-- MechaKeys in on [**TikTok**](https://tiktok.com/@MechaKeys)
+- MechaKeys is on [**TikTok**](https://tiktok.com/@MechaKeys)
 
 ---
 
