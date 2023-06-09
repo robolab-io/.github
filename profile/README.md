@@ -1,12 +1,10 @@
 ## :wave: Welcome to robolab!
 
-![A banner featuring various Robolab characters](https://raw.githubusercontent.com/robolab-io/.github/master/robolab.png)
-
-Welcome to the robolab.io GitHub. We build, design, and ship **amazing software, games, and creations** for fun! Our flagship release is [**MechaKeys**](https://mechakeys.robolab.io), the mechanical keyboard simulator (and more!) for desktop.
+Welcome to the robolab GitHub. We build, design, and ship **amazing software**! Our flagship release is [**MechaKeys**](https://v2.robolab.io), the cross-platform integrated typing environment.
 
 ### :sparkles: Connect
 
-We're on a bunch of social medias, sometimes regretfully! Here's where you can find us and get in touch.
+Here's where you can find us and get in touch.
 
 - Robolab is on [**Discord**](https://discord.robolab.io)
 
@@ -17,4 +15,4 @@ We're on a bunch of social medias, sometimes regretfully! Here's where you can f
 ---
 
 <sub>
-:mega: Psst. We're not going to open-source much. Sorry if you were expecting stuff!
+:mega: We'll be open-sourcing in the near future! Please stay tuned for future updates.
